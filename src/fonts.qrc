@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fonts/digital-7 (italic).ttf</file>
+        <file>fonts/digital-7.ttf</file>
+    </qresource>
+</RCC>
